@@ -1,0 +1,29 @@
+.square {
+    width: 3em;
+    height: 3em;
+    color: white;
+    background-color: black;
+    margin: 1em;
+    float: left;
+    margin: 0.2em;
+    font-size: 5em;
+    text-align: center;
+line-height: 3em;
+vertical-align: middle;
+}
+
+
+
+/*body {
+    background-color: red;
+}
+h1  {
+    color: purple;
+}
+.friend {
+    color: black;
+
+       }
+ .friend h3 {
+    text-transform: uppercase;
+       }*/
